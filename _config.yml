@@ -2,4 +2,3 @@ theme: jekyll-theme-slate
 title: hello world
 description: hello world.
 show_downloads: true
-baseurl: test.js
