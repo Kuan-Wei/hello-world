@@ -1,3 +1,4 @@
+<script src="test.js"></script>
 ---
 layout: default
 ---
