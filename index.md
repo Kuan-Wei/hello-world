@@ -22,7 +22,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-<button>test</button>
+<button type="button">test</button>
 
 ```js
 // Javascript code with syntax highlighting.
